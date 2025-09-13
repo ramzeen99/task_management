@@ -14,7 +14,7 @@ Un gestionnaire de tâches en ligne de commande développé en Dart.
 ## 🚀 Installation
 
 # Cloner le projet
-git clone https://github.com/votre-username/task_management.git
+git clone https://github.com/ramzeen99/task_management.git
 
 # Se placer dans le dossier
 cd task_management
